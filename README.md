@@ -54,6 +54,6 @@ I'm a **Junior Cybersecurity Specialist** and **Web Developer** passionate about
 
 ## 📫 Let’s Connect!
 
-- 📧 **Email**: [kirahmet@gmail.com](mailto:mkirahmet@gmail.com)  
+- 📧 **Email**: [mkirahmet@gmail.com](mailto:mkirahmet@gmail.com)  
 - 🧑‍💻 **GitHub**: [MKIRAHMET](https://github.com/MKIRAHMET)  
 - 💼 **LinkedIn**: [muhammed-kir-ahmet](https://linkedin.com/in/muhammed-kir-ahmet-0ab424267)  
