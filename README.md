@@ -43,14 +43,15 @@
 - Certificate of Proficiency in English – University of Michigan  
 
 ---
-
 ## 🏆 Badges
-
-[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/53a3fd18-6b5b-4f4f-8245-25269d44e42e)  
-<a href="https://www.credly.com/badges/1a63ce9c-db99-4d40-b66c-d61df1fb7ac4" target="_blank">
-  <img src="https://images.credly.com/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" width="150" height="150" alt="IBM Full-Stack JavaScript Developer"/>
-</a>
-
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.credly.com/badges/53a3fd18-6b5b-4f4f-8245-25269d44e42e" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" width="150" height="150" alt="Google Cybersecurity Professional Certificate"/>
+  </a>
+  <a href="https://www.credly.com/badges/1a63ce9c-db99-4d40-b66c-d61df1fb7ac4" target="_blank">
+    <img src="https://images.credly.com/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png" width="150" height="150" alt="IBM Full-Stack JavaScript Developer"/>
+  </a>
+</div>
 ---
 
 ## 🌍 Languages
