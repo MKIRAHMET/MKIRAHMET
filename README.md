@@ -46,8 +46,8 @@
 
 ## 🏆 Badges
 
-[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/340x340/images/53a3fd18-6b5b-4f4f-8245-25269d44e42e.png)](https://www.credly.com/badges/53a3fd18-6b5b-4f4f-8245-25269d44e42e)  
-[![IBM Full-Stack JavaScript Developer](https://images.credly.com/size/340x340/images/1a63ce9c-db99-4d40-b66c-d61df1fb7ac4.png)](https://www.credly.com/badges/1a63ce9c-db99-4d40-b66c-d61df1fb7ac4)  
+[![Google Cybersecurity Professional Certificate](https://images.credly.com/size/340x340/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/53a3fd18-6b5b-4f4f-8245-25269d44e42e)  
+[![IBM Full-Stack JavaScript Developer](https://images.credly.com/images/ff8f2956-43b1-47d1-abba-1db32724b24b/image.png)](https://www.credly.com/badges/1a63ce9c-db99-4d40-b66c-d61df1fb7ac4)  
 
 ---
 
@@ -66,4 +66,4 @@
 - 🧑‍💻 **GitHub**: [MKIRAHMET](https://github.com/MKIRAHMET)  
 - 💼 **LinkedIn**: [muhammed-kir-ahmet](https://linkedin.com/in/muhammed-kir-ahmet-0ab424267)  
 - [![Blog](https://img.shields.io/badge/Blog-moha--sec.vercel.app-blue?style=flat-square&logo=vercel)](https://moha-sec.vercel.app)  
-- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro%20Hacker-success?style=flat-square&logo=hackthebox)](https://www.hackthebox.com/)
+- [![HackTheBox](https://img.shields.io/badge/HackTheBox-Pro%20Hacker-success?style=flat-square&logo=hackthebox)](https://app.hackthebox.com/profile/1726124)
